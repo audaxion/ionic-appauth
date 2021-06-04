@@ -7,7 +7,7 @@ export enum AuthActions {
     SignOutSuccess = "Sign Out Success",
     SignOutFailed = "Sign Out Failed",
     RefreshSuccess = "Refresh Success",
-    RefreshFailed = "Refesh Failed",
+    RefreshFailed = "Refresh Failed",
     LoadTokenFromStorageSuccess = "Get Token From Storage Success",
     LoadTokenFromStorageFailed = "Get Token From Storage Failed",
     LoadUserInfoSuccess = "Load User Info Success",
